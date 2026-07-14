@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+; ============================================================
+; PCIe Gen3 限制 - 防止 GPU Gen4 信号崩导致失联卡死
+; HP OMEN 16 / RTX 4060 Laptop GPU
+; 双击导入后重启生效
+; ============================================================
+
+; NVIDIA GeForce RTX 4060 Laptop GPU
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
+"RMPcieLinkSpeed"=dword:00000003
+"RMLimitPcieGenTo"=dword:00000003

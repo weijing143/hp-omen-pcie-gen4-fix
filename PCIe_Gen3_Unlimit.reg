@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+; ============================================================
+; 撤销 PCIe Gen3 限制 - 恢复 Gen4 自动协商
+; 仅在需要测试或已解决问题时使用
+; ============================================================
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
+"RMPcieLinkSpeed"=-
+"RMLimitPcieGenTo"=-
