@@ -250,4 +250,19 @@ HP OMEN 16 BIOS F.20 在 PCIe Gen4 信号完整性方面存在设计缺陷——
 
 > **Author**: weijing143 (Supernova)  
 > **Tags**: #HPOMEN #PCIe #Gen4 #WHEA #NVIDIA #RTX4060 #BIOS #WindowsUpdate #故障分析  
-> **License**: CC BY 4.0
+
+---
+
+## 免责声明
+
+**本文仅供技术交流与学习参考，请自行承担操作风险。**
+
+- 修改 Windows 注册表存在风险，操作不当可能导致系统不稳定、数据丢失或硬件损坏。请在操作前备份重要数据。
+- 文中所述方案为个人基于特定硬件（HP OMEN 16-wf1142TX + BIOS F.20）的实践经验，不保证适用于所有设备或 BIOS 版本。不同硬件组合、不同 BIOS 版本下效果可能不同。
+- 作者对因使用本文所述方法而产生的任何直接或间接损失不承担任何责任，包括但不限于系统崩溃、数据丢失、硬件损坏、保修失效等。
+- 本项目与 HP Inc.、NVIDIA Corporation、Intel Corporation、Microsoft Corporation 等公司无关，亦未获得上述公司授权或认可。所有商标均为其各自所有者的财产。
+
+---
+
+> **License**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — 署名-非商业性使用 4.0 国际  
+> 允许分享、转载、改编用于**非商业**目的，但需注明原作者。**禁止任何形式的商业使用**。

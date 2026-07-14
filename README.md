@@ -29,6 +29,18 @@ Both should read `3`.
 - **GPU**: NVIDIA RTX 4060 Laptop
 - **BIOS**: F.20 (2026-03-30)
 
+## Disclaimer
+
+**USE AT YOUR OWN RISK.** The registry modifications and configuration changes described in this repository are provided for educational and informational purposes only. Modifying the Windows registry can cause system instability, data loss, or hardware damage if applied incorrectly. The author assumes no responsibility or liability for any consequences resulting from the use of these materials.
+
+This project is not affiliated with, endorsed by, or associated with HP Inc., NVIDIA Corporation, Intel Corporation, or Microsoft Corporation. All trademarks and registered trademarks are the property of their respective owners.
+
 ## License
 
-CC BY 4.0 — see [hp-omen-pcie-gen4-crash-fix.md](hp-omen-pcie-gen4-crash-fix.md) for full details.
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — Attribution-NonCommercial.
+
+- **Allowed**: Share, copy, redistribute, adapt, remix for **non-commercial** purposes
+- **Required**: Attribution to the original author
+- **Prohibited**: Commercial use of any kind
+
+Full license text: [LICENSE](LICENSE)
